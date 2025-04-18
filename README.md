@@ -38,3 +38,8 @@ You can however run the rpi pico over usb as well, you would just need to flash 
 
 ## But how do I flash the Arduino!? or the Pico!?
 You can checkout my other repository, [klipper_multi_color](https://github.com/pannonbeard/klipper_multi_color), where I have a walk through and hopefully clear instructions on how to do just that.
+
+#Want to contribute?!
+Happy to have any help! I am not yet the best will all of the amazing things you can do with klipper, but any other ideas of things we can add or improve with this are greatly appriciated!
+
+Open a issue or possibly a pull request and we can have some fun troubleshooting!
