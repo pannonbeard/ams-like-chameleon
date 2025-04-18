@@ -1,6 +1,9 @@
 # AMS-Like Chameleon
 This was a fun little project to make my own standalone AMS-Like system that uses a 3dChameleon as the filament selector
 
+![IMG_20240916_152523](https://github.com/user-attachments/assets/9cf3a50e-0eb5-4ead-bdef-8a41b55f6c75)
+
+
 ## Things you'll need... 
 
 ## To print
